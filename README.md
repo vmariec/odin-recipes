@@ -1,0 +1,1 @@
+This project demonstrates my knowledge of basic html functions, such as uploading images, making ordered and unordered lists, using headings, and adding links. With these skills, I have created 3 recipes pages that display an image of the recipe, an ingredients list, and the steps to make each meal.
